@@ -1,6 +1,6 @@
 <h1 align="center">Infino Assignment</h1>
 
-<h3 align="center">This repository contains all the Projects links and info that I've build at FunctionUp</h3>
+<h3 align="center">This repository contains all the Projects file of Infino Assignment</h3>
 
 <br />
 
