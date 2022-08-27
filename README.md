@@ -30,11 +30,11 @@ The main object of this assignment was to build a React Application.
 
 - Requirement:-
 
-    1. Create a input box which accepts a GOOGLE SPREADSHEET LINK, which contain a single column with multiple rows having random number in cells. 
+    1. Create a input box which excepts a `GOOGLE SPREADSHEET LINK`, which contain a single column with multiple rows having random number in cells. 
 
     2. After pressing the `SUBMIT` button the values from the Google spreadsheet should be fetched and stored in the MongoDB database.
 
-    3. During the same time of pressing the submit button a new input box will appear accepting a number from 1 to infinity.
+    3. During the same time of pressing the submit button a new input box will appear excepting a number from 1 to infinity.
 
     4. After entering the number in the input box and pressing the submit button all the values that were stored in the mongoDB should be fetch and multiply by the number given by the user.
 
@@ -61,7 +61,7 @@ The main object of this assignment was to build a React Application.
 4. Open a new terminal and move to the `server` folder using below code.
 
       ```
-      cd client
+      cd server
       ```
 
 5. Now, run below code in both the terminal
